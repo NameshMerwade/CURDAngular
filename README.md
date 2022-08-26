@@ -5,7 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 first run cmd npm install
+
 second run cmd npm start 
+
 third your browser will automatically open and application will be running on `http://localhost:4200/`
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
